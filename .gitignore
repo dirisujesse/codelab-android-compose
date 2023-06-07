@@ -2,8 +2,10 @@
 .gradle
 /local
 /.idea/*
+temp_auto_push.bat
 .DS_Store
 build/
 /captures
 .externalNativeBuild
-local.properties
+local.properties.gitignore
+branch_structure.json
